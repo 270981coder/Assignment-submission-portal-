@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment Submission Portal
 
 This is a MERN stack assignment submission portal for students and teachers.
@@ -89,3 +90,7 @@ npm run dev
 ```
 
 If MongoDB is not installed locally, update `backend/.env` with your database URI.
+=======
+# Assignment-submission-portal-
+Assignment Submission Portal built with MERN Stack (MongoDB, Express.js, React.js, Node.js) that allows students to submit assignments and teachers to review, manage, and assign marks through a secure and user-friendly web interface.
+>>>>>>> 6f2ceca99df3a4bf98a441ea098e8ffb094b5a38
