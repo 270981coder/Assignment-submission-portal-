@@ -1,0 +1,10 @@
+{
+  "name": "novacss",
+  "version": "1.0.0",
+  "description": "Production-ready utility-first CSS framework",
+  "main": "novacss.css",
+  "style": "novacss.css",
+  "files": ["*.css", "README.md"],
+  "keywords": ["css", "framework", "utility-first", "novacss"],
+  "license": "MIT"
+}

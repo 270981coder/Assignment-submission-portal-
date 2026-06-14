@@ -1,0 +1,20 @@
+/* NovaCSS framework entry point */
+@import './reset.css';
+@import './variables.css';
+@import './themes/light.css';
+@import './themes/dark.css';
+@import './utilities/spacing.css';
+@import './utilities/typography.css';
+@import './utilities/colors.css';
+@import './utilities/layout.css';
+@import './utilities/flex.css';
+@import './utilities/grid.css';
+@import './components/button.css';
+@import './components/card.css';
+@import './components/form.css';
+@import './components/modal.css';
+@import './components/navbar.css';
+@import './components/alert.css';
+
+/* Production-ready helpers */
+:root { color: var(--foreground); background-color: var(--background); }

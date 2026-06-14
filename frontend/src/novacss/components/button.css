@@ -1,0 +1,7 @@
+.btn { display: inline-flex; align-items: center; justify-content: center; border: 1px solid transparent; border-radius: var(--border-radius); padding: 0.65rem 1rem; cursor: pointer; transition: transform 120ms ease, background-color 120ms ease; }
+.btn:hover { transform: translateY(-1px); }
+.btn-primary { background-color: var(--primary); color: #fff; }
+.btn-secondary { background-color: var(--secondary); color: #fff; }
+.btn-success { background-color: var(--success); color: #fff; }
+.btn-danger { background-color: var(--danger); color: #fff; }
+.btn-outline { border-color: var(--border); color: var(--foreground); background-color: transparent; }

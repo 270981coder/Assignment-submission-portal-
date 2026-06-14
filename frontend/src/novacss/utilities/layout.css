@@ -1,0 +1,6 @@
+.container { width: min(100% - 2rem, var(--container-width)); margin-inline: auto; }
+.flex { display: flex; }
+.grid { display: grid; }
+.hidden { display: none; }
+.block { display: block; }
+.inline-block { display: inline-block; }

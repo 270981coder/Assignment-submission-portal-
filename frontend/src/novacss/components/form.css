@@ -1,0 +1,2 @@
+.input, .select, .textarea { width: 100%; border: 1px solid var(--border); border-radius: var(--border-radius); padding: 0.65rem 0.75rem; background: var(--background); color: var(--foreground); }
+.checkbox, .radio { accent-color: var(--primary); }
